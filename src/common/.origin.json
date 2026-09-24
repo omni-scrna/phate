@@ -1,0 +1,21 @@
+{
+  "common": {
+    "repo": "https://github.com/omni-scrna/boilerplate",
+    "ref": "main",
+    "commit": "8a8ba8524939b49db1179b2da5687f99cceeb91b",
+    "lang": "python"
+  },
+  "schemas": [
+    {
+      "benchmark": "split-stages",
+      "repo": "https://github.com/omni-scrna/split-stages-plan",
+      "ref": "add-phate",
+      "commit": "d5a92b16153c0c1cd71650d2f82974831b7e0e0a",
+      "files": [
+        "PHATE",
+        "_base"
+      ]
+    }
+  ],
+  "fetched_at": "2026-09-24T13:47:25Z"
+}
