@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this module in your publication, please cite as below."
+type: software
+title: "PHATE"
+abstract: |
+  Omnibenchmark module wrapping PHATE for the PHATE stage of split-stages-plan
+authors:
+  - family-names: "Choudhury"
+    given-names: "Atreya"
+date-released: "2026-09-24"
+version: "0.1.0"
+license: MIT
+url: "https://github.com/omni-scrna/phate"
+repository-code: "https://github.com/omni-scrna/phate"
+keywords:
+  - bioinformatics
+  - computational-biology
+  - benchmark
+  - omnibenchmark
+  - module
+references:
+  - title: "Visualizing structure and transitions in high-dimensional biological data"
+    type: article
+    authors:
+      - family-names: "Moon"
+        given-names: "Kevin R."
+      - name: "et al."
+    journal: "Nature Biotechnology"
+    year: 2019
+    doi: "10.1038/s41587-019-0336-3"
+  - title: "PHATE"
+    type: software
+    authors:
+      - name: "KrishnaswamyLab"
+    version: "2.0.0"
+    license: GPL-2.0-only
+    url: "https://github.com/KrishnaswamyLab/PHATE"

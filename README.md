@@ -33,4 +33,4 @@ pixi run export-env   # regenerate envs/phate.yml
 pixi run -e dev sync  # refresh src/common/ from boilerplate + the plan's schema/
 ```
 
-Upstream PHATE is GPL-2.0.
+The module is MIT; upstream PHATE is GPL-2.0-only and is installed, not vendored.

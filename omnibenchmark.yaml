@@ -1,6 +1,7 @@
 # OmniBenchmark Module Configuration
 
 entrypoints:
+  default: run_phate.py
   phate: run_phate.py
 
 # common code
